@@ -1,0 +1,48 @@
+*****************************
+*Data Description: description of TreatmentTree_MockData.txt
+*****************************
+
+TreatmentTree_MockData.txt contains mock (simulated) treatment data for 9750 patients. There are 35665 rows of data, plus a header with variable names. Patients may have multiple rows of data: one row for each period of treatment with a particular treatment.
+ 
+There are 10 variables in the dataset:
+
+id	each patient has a distinct id, integers from 1 to 9750
+	Each patient has a row for each treatment type; the number
+	of rows is equal to the number of treatments the patient has had.
+
+treatment_start	
+	The start day of each treatment type. Each patient 
+	commences treatment on day 0, and may switch treatments,
+	die, stop treatment or stop being observed on any day after that.
+
+treatment_end
+	The end day of each treatment type. Patients may end a 
+	treatment because they switch to another treatment, die, stop
+	treatment or stop being observed.
+
+treatment
+	A categorical variable containing the treatment type: 1, 2, 3 or 4.
+
+age
+	A continuous variable containing patient age in years 	
+
+bmi
+	A continuous variable containing patient body mass index (kg/m2)
+
+sex
+	A binary indicator for sex (0=female, 1=male)
+
+diabetes
+	A categorical variable containing the diabetic status of each
+	patient (0=no diabetes, 1 = Type I diabetes, 2 = Type 2 diabetes)
+
+dead
+	A binary variable indicating whether a patient died at the end of
+	the current treatment period (=1 if died, 0 if still alive at time
+	= treatment_end)
+
+stop_treatment
+	 A binary variable indicating whether a patient stopped treatment
+	 at the end of the current treatment period 
+	(=1 if stopped treatment, 0 if continuing treatment at time
+	= treatment_end)

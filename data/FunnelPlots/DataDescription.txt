@@ -1,0 +1,41 @@
+*****************************
+*DataDescription.txt: description of FunnelPlot_MockData.txt
+*****************************
+
+FunnelPlot_MockData.txt contains mock (simulated) treatment data for 115 health care providers. There are 115 rows of data, plus a header with variable names. Each provider has one row of data.
+ 
+There are 11 variables in the dataset:
+
+provider
+	Provider id number	
+
+number_patients	
+	Total number of patients at each provider
+
+predicted_deaths
+	The predicted number of deaths at each provider
+
+provider_type
+	A categorical variable containing the provider type: 0, 1, 2, or 3.
+
+ave_age
+	A continuous variable containing average patient age in years at each provider	
+
+number_deaths
+	Number of deaths observed at each provider
+
+smr
+	Standardised mortality ratio (observed number of deaths divided by expected number of deaths)
+
+lower_95limit
+	Lower 95% control limit = (1 - 1.96*sqrt(1/predicted_deaths))
+
+upper_95limit
+	Upper 95% control limit  = (1 + 1.96*sqrt(1/predicted_deaths))
+
+lower_99limit
+	Lower 99% control limit = (1 - 2.58*sqrt(1/predicted_deaths))
+
+upper_99limit
+	Upper 99% control limit = (1 + 2.58*sqrt(1/predicted_deaths))
+
