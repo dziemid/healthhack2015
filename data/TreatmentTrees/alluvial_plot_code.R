@@ -1,26 +1,31 @@
 rm(list=ls()) 
 gc()
 
-library(plyr)
+require(plyr)
 require(rCharts)
 require(rjson)
+require(RCurl)
 
-path_len_lim <- Inf
-min_age <- 0
+path_len_lim <- Inf #set to Inf to consider all paths
+min_age <- 40
 max_age <- Inf
-sex_filter <- 1
-path_size_cutoff <- 20
-path_match <- '[]' # [] for all paths (everyone starts here)
+sex_filter <- c(0,1) #set filter on which sex you want to consider c(0,1) for all
+path_size_cutoff <- 10 #set minimum number of observations 
+path_match <- '[3, 2, 1]' # [] for all paths (everyone starts here)
 
-data <- read.table("/Users/amydonaldson/Documents/Habib/dev/health_hack/TreatmentTrees/TreatmentTree_MockData_RealTreat.txt",sep=',',header=TRUE)
+get_data <- getURL("https://raw.githubusercontent.com/dziemid/healthhack2015/master/data/TreatmentTrees/TreatmentTree_MockData_periods_correct.txt")
+data <- read.table(text = get_data,sep=',',header=TRUE)
+# data <- read.table("/Users/amydonaldson/Documents/Habib/dev/health_hack/TreatmentTrees/TreatmentTree_MockData_RealTreat.txt",sep=',',header=TRUE)
 str(data)
-data <- data[data$age>=min_age&data$age<=max_age,]
+data <- data[data$age>=min_age&data$age<=max_age&data$sex%in%sex_filter,]
 
-history_data <- read.table("/Users/amydonaldson/Documents/Habib/dev/health_hack/healthhack2015/data/TreatmentTrees/periods_with_history.txt",sep=';',header=TRUE)
+get_data <- getURL("https://raw.githubusercontent.com/dziemid/healthhack2015/master/data/TreatmentTrees/periods_with_history.txt")
+history_data <- read.table(text = get_data,sep=';',header=TRUE)
+# history_data <- read.table("/Users/amydonaldson/Documents/Habib/dev/health_hack/healthhack2015/data/TreatmentTrees/periods_with_history.txt",sep=';',header=TRUE)
 id_list <- unique(history_data[history_data$history==path_match,"id"])
 history_data <- history_data[history_data$id%in%id_list,]
-data <- merge(data,history_data[,c("period","id","history")],by=c("period","id"))
 
+data <- merge(data,history_data[,c("period","id","history")],by=c("period","id"))
 data <- data[data$period <= path_len_lim,]
 
 # n_treats <- length(unique(data$treatment))
