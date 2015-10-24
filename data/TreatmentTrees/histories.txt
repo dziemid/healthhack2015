@@ -1,0 +1,1447 @@
+history=[1] all=645 dead=78 stop_count=24
+history=[2] all=457 dead=50 stop_count=22
+history=[4] all=397 dead=46 stop_count=18
+history=[1, 2] all=382 dead=75 stop_count=21
+history=[2, 1] all=339 dead=72 stop_count=21
+history=[4, 1] all=314 dead=60 stop_count=28
+history=[1, 4] all=295 dead=59 stop_count=16
+history=[2, 4] all=222 dead=41 stop_count=17
+history=[4, 2] all=221 dead=29 stop_count=15
+history=[1, 2, 1] all=200 dead=55 stop_count=20
+history=[1, 4, 1] all=192 dead=51 stop_count=14
+history=[2, 1, 2] all=140 dead=54 stop_count=7
+history=[1, 2, 4] all=138 dead=38 stop_count=11
+history=[1, 4, 2] all=134 dead=31 stop_count=15
+history=[2, 4, 1] all=132 dead=28 stop_count=9
+history=[4, 1, 2] all=129 dead=31 stop_count=10
+history=[2, 1, 4] all=124 dead=30 stop_count=14
+history=[4, 2, 1] all=114 dead=26 stop_count=9
+history=[4, 1, 4] all=108 dead=28 stop_count=9
+history=[2, 4, 2] all=95 dead=26 stop_count=4
+history=[4, 2, 4] all=82 dead=25 stop_count=4
+history=[4, 1, 2, 1] all=72 dead=20 stop_count=5
+history=[1, 4, 1, 2] all=72 dead=24 stop_count=7
+history=[1, 4, 2, 1] all=72 dead=25 stop_count=8
+history=[1, 2, 1, 2] all=72 dead=17 stop_count=11
+history=[1, 2, 1, 4] all=70 dead=25 stop_count=3
+history=[1, 4, 1, 4] all=64 dead=18 stop_count=9
+history=[2, 1, 2, 1] all=62 dead=18 stop_count=8
+history=[2, 1, 4, 1] all=61 dead=22 stop_count=5
+history=[1, 2, 4, 1] all=60 dead=20 stop_count=5
+history=[4, 1, 4, 1] all=58 dead=17 stop_count=10
+history=[4, 2, 1, 4] all=54 dead=12 stop_count=4
+history=[4, 1, 4, 2] all=51 dead=21 stop_count=5
+history=[4, 2, 1, 2] all=49 dead=14 stop_count=7
+history=[2, 1, 2, 4] all=43 dead=11 stop_count=6
+history=[4, 2, 4, 1] all=41 dead=12 stop_count=2
+history=[2, 1, 4, 2] all=41 dead=13 stop_count=6
+history=[1, 4, 2, 4] all=41 dead=13 stop_count=3
+history=[3, 1] all=40 dead=4 stop_count=2
+history=[2, 4, 1, 4] all=40 dead=10 stop_count=5
+history=[1, 3] all=37 dead=9 stop_count=2
+history=[3] all=34 dead=1 stop_count=1
+history=[2, 4, 1, 2] all=34 dead=14 stop_count=6
+history=[1, 2, 4, 2] all=33 dead=10 stop_count=2
+history=[2, 4, 2, 1] all=33 dead=12 stop_count=0
+history=[4, 1, 2, 4] all=32 dead=10 stop_count=3
+history=[2, 4, 2, 4] all=31 dead=14 stop_count=2
+history=[2, 1, 2, 4, 1] all=29 dead=8 stop_count=4
+history=[1, 4, 1, 2, 1] all=29 dead=4 stop_count=1
+history=[2, 1, 2, 1, 4] all=27 dead=11 stop_count=5
+history=[1, 4, 1, 4, 1] all=27 dead=16 stop_count=2
+history=[3, 2] all=27 dead=2 stop_count=1
+history=[3, 4] all=26 dead=3 stop_count=2
+history=[1, 2, 1, 4, 1] all=24 dead=6 stop_count=2
+history=[1, 2, 1, 2, 1] all=23 dead=5 stop_count=2
+history=[1, 4, 1, 4, 2] all=23 dead=5 stop_count=6
+history=[1, 3, 1] all=22 dead=5 stop_count=0
+history=[4, 3] all=22 dead=4 stop_count=2
+history=[1, 2, 4, 2, 1] all=21 dead=5 stop_count=3
+history=[2, 4, 1, 2, 1] all=21 dead=7 stop_count=3
+history=[4, 2, 4, 2] all=21 dead=3 stop_count=1
+history=[1, 2, 4, 1, 2] all=20 dead=7 stop_count=1
+history=[4, 1, 2, 1, 2] all=20 dead=2 stop_count=7
+history=[1, 3, 2] all=20 dead=7 stop_count=0
+history=[4, 1, 2, 4, 1] all=19 dead=9 stop_count=2
+history=[2, 1, 4, 1, 2] all=19 dead=7 stop_count=1
+history=[2, 1, 2, 1, 2] all=19 dead=4 stop_count=0
+history=[1, 3, 4] all=19 dead=5 stop_count=3
+history=[4, 1, 4, 1, 2] all=19 dead=5 stop_count=3
+history=[2, 1, 4, 1, 4] all=19 dead=10 stop_count=1
+history=[2, 4, 1, 2, 4] all=19 dead=6 stop_count=1
+history=[4, 2, 1, 2, 1] all=19 dead=5 stop_count=2
+history=[1, 2, 3] all=18 dead=6 stop_count=3
+history=[4, 1, 2, 1, 4] all=18 dead=6 stop_count=0
+history=[1, 2, 1, 4, 2] all=18 dead=2 stop_count=1
+history=[2, 3] all=18 dead=4 stop_count=0
+history=[2, 4, 2, 4, 1] all=17 dead=4 stop_count=0
+history=[2, 1, 3] all=17 dead=5 stop_count=0
+history=[1, 4, 2, 4, 2] all=16 dead=3 stop_count=3
+history=[2, 1, 4, 2, 1] all=16 dead=6 stop_count=3
+history=[4, 1, 3] all=16 dead=6 stop_count=3
+history=[1, 4, 2, 1, 4] all=16 dead=3 stop_count=3
+history=[4, 2, 4, 1, 2] all=16 dead=7 stop_count=4
+history=[4, 1, 2, 4, 2] all=15 dead=9 stop_count=3
+history=[2, 3, 2] all=15 dead=2 stop_count=2
+history=[2, 3, 4] all=15 dead=5 stop_count=2
+history=[1, 2, 1, 4, 1, 2] all=15 dead=8 stop_count=3
+history=[2, 1, 2, 1, 2, 1] all=15 dead=5 stop_count=2
+history=[1, 4, 2, 1, 2] all=15 dead=4 stop_count=2
+history=[1, 2, 1, 2, 4] all=14 dead=8 stop_count=0
+history=[3, 1, 2] all=14 dead=2 stop_count=0
+history=[1, 4, 1, 2, 1, 4] all=14 dead=1 stop_count=3
+history=[2, 4, 1, 4, 2] all=14 dead=5 stop_count=1
+history=[4, 2, 1, 4, 2] all=14 dead=9 stop_count=1
+history=[1, 4, 1, 2, 4] all=14 dead=7 stop_count=2
+history=[2, 1, 2, 4, 2] all=13 dead=8 stop_count=3
+history=[4, 2, 4, 2, 1] all=13 dead=5 stop_count=3
+history=[2, 1, 4, 1, 2, 1] all=13 dead=4 stop_count=0
+history=[4, 2, 1, 4, 1] all=13 dead=3 stop_count=3
+history=[1, 4, 1, 4, 1, 2] all=13 dead=9 stop_count=0
+history=[4, 1, 4, 1, 4] all=13 dead=5 stop_count=0
+history=[2, 3, 1] all=13 dead=2 stop_count=0
+history=[1, 2, 4, 1, 4] all=13 dead=2 stop_count=3
+history=[3, 1, 4] all=13 dead=5 stop_count=3
+history=[2, 4, 1, 4, 1] all=13 dead=3 stop_count=2
+history=[4, 2, 4, 1, 4] all=13 dead=3 stop_count=2
+history=[1, 4, 2, 4, 1] all=12 dead=7 stop_count=3
+history=[4, 1, 4, 2, 1] all=12 dead=3 stop_count=0
+history=[3, 2, 1] all=12 dead=4 stop_count=0
+history=[3, 1, 2, 1] all=12 dead=4 stop_count=1
+history=[3, 2, 4] all=12 dead=2 stop_count=2
+history=[4, 2, 4, 2, 4] all=12 dead=4 stop_count=0
+history=[3, 2, 4, 1] all=12 dead=3 stop_count=0
+history=[2, 1, 2, 1, 4, 1] all=11 dead=4 stop_count=0
+history=[4, 1, 4, 2, 4] all=11 dead=7 stop_count=1
+history=[2, 4, 2, 1, 4] all=11 dead=7 stop_count=1
+history=[1, 2, 4, 2, 4] all=11 dead=6 stop_count=0
+history=[2, 1, 4, 1, 2, 4] all=10 dead=4 stop_count=1
+history=[2, 1, 4, 2, 4] all=10 dead=4 stop_count=1
+history=[3, 4, 1] all=10 dead=3 stop_count=0
+history=[2, 1, 4, 1, 4, 1] all=10 dead=4 stop_count=1
+history=[1, 2, 1, 4, 2, 1] all=10 dead=3 stop_count=2
+history=[1, 3, 1, 4] all=10 dead=4 stop_count=0
+history=[4, 1, 4, 2, 1, 2] all=10 dead=3 stop_count=1
+history=[2, 1, 4, 2, 1, 2] all=10 dead=4 stop_count=3
+history=[1, 4, 1, 2, 4, 1] all=10 dead=4 stop_count=3
+history=[1, 3, 1, 2] all=9 dead=3 stop_count=0
+history=[1, 4, 3] all=9 dead=2 stop_count=0
+history=[4, 1, 2, 1, 2, 1] all=9 dead=3 stop_count=2
+history=[1, 3, 2, 1] all=9 dead=1 stop_count=1
+history=[1, 4, 2, 1, 2, 1] all=8 dead=5 stop_count=0
+history=[4, 3, 2, 1] all=8 dead=2 stop_count=0
+history=[2, 4, 3] all=8 dead=3 stop_count=0
+history=[4, 2, 1, 2, 4] all=8 dead=2 stop_count=0
+history=[1, 2, 1, 2, 1, 4] all=8 dead=4 stop_count=0
+history=[4, 1, 3, 2] all=8 dead=5 stop_count=1
+history=[1, 2, 4, 1, 2, 1] all=8 dead=6 stop_count=1
+history=[2, 4, 2, 1, 2] all=8 dead=5 stop_count=1
+history=[4, 1, 2, 3] all=8 dead=1 stop_count=0
+history=[1, 4, 1, 2, 1, 2] all=8 dead=2 stop_count=3
+history=[4, 3, 4] all=8 dead=1 stop_count=1
+history=[3, 4, 2] all=8 dead=0 stop_count=1
+history=[3, 4, 1, 2] all=8 dead=0 stop_count=2
+history=[4, 2, 1, 2, 4, 1] all=8 dead=4 stop_count=2
+history=[4, 2, 3] all=8 dead=3 stop_count=0
+history=[3, 1, 4, 1] all=7 dead=3 stop_count=1
+history=[4, 1, 2, 4, 1, 2] all=7 dead=0 stop_count=1
+history=[3, 2, 1, 2] all=7 dead=3 stop_count=1
+history=[1, 2, 3, 1] all=7 dead=2 stop_count=0
+history=[4, 2, 3, 1] all=7 dead=3 stop_count=1
+history=[3, 1, 2, 4] all=7 dead=2 stop_count=0
+history=[4, 1, 2, 4, 1, 4] all=7 dead=0 stop_count=1
+history=[2, 1, 4, 3] all=7 dead=2 stop_count=1
+history=[1, 3, 4, 2] all=7 dead=2 stop_count=2
+history=[2, 1, 3, 4] all=7 dead=2 stop_count=1
+history=[2, 4, 1, 4, 2, 1] all=7 dead=4 stop_count=1
+history=[2, 1, 2, 4, 1, 2] all=7 dead=2 stop_count=1
+history=[3, 2, 4, 2] all=7 dead=2 stop_count=1
+history=[1, 2, 4, 2, 4, 1] all=7 dead=3 stop_count=0
+history=[4, 3, 2] all=7 dead=4 stop_count=0
+history=[2, 1, 2, 4, 2, 1] all=7 dead=4 stop_count=1
+history=[4, 1, 3, 1] all=7 dead=3 stop_count=2
+history=[2, 4, 1, 2, 1, 2] all=7 dead=1 stop_count=3
+history=[4, 1, 2, 4, 2, 1] all=7 dead=2 stop_count=0
+history=[1, 4, 1, 4, 2, 4] all=7 dead=2 stop_count=0
+history=[4, 2, 1, 2, 4, 2] all=7 dead=2 stop_count=0
+history=[1, 4, 1, 2, 4, 2] all=7 dead=1 stop_count=1
+history=[4, 2, 1, 4, 2, 1] all=7 dead=3 stop_count=2
+history=[2, 4, 2, 4, 1, 4] all=6 dead=3 stop_count=1
+history=[4, 1, 2, 1, 2, 4] all=6 dead=2 stop_count=2
+history=[4, 1, 4, 1, 2, 1] all=6 dead=1 stop_count=1
+history=[2, 1, 2, 4, 2, 4] all=6 dead=4 stop_count=0
+history=[1, 2, 1, 2, 4, 2] all=6 dead=1 stop_count=1
+history=[4, 2, 1, 2, 1, 4] all=6 dead=2 stop_count=1
+history=[2, 4, 2, 1, 4, 2] all=6 dead=2 stop_count=1
+history=[1, 2, 1, 3] all=6 dead=5 stop_count=0
+history=[2, 1, 2, 1, 2, 4] all=6 dead=4 stop_count=0
+history=[1, 4, 2, 3] all=6 dead=1 stop_count=0
+history=[2, 1, 2, 1, 2, 1, 4] all=6 dead=4 stop_count=1
+history=[4, 2, 4, 2, 1, 4] all=6 dead=1 stop_count=2
+history=[2, 1, 2, 1, 2, 1, 2] all=6 dead=3 stop_count=0
+history=[1, 2, 1, 4, 1, 4] all=6 dead=3 stop_count=0
+history=[1, 4, 3, 1] all=6 dead=2 stop_count=2
+history=[1, 2, 4, 2, 1, 4] all=6 dead=3 stop_count=0
+history=[2, 3, 4, 1] all=6 dead=2 stop_count=0
+history=[1, 4, 2, 4, 1, 4] all=6 dead=2 stop_count=0
+history=[2, 4, 1, 2, 1, 4] all=6 dead=2 stop_count=0
+history=[4, 1, 3, 4] all=6 dead=4 stop_count=1
+history=[2, 4, 2, 4, 2] all=6 dead=4 stop_count=0
+history=[1, 4, 1, 2, 1, 4, 1] all=6 dead=2 stop_count=1
+history=[1, 2, 4, 1, 4, 2] all=5 dead=3 stop_count=1
+history=[1, 4, 1, 2, 4, 2, 1] all=5 dead=1 stop_count=0
+history=[4, 1, 3, 2, 1] all=5 dead=1 stop_count=1
+history=[4, 2, 4, 1, 4, 1] all=5 dead=2 stop_count=2
+history=[1, 4, 2, 3, 4] all=5 dead=3 stop_count=2
+history=[4, 3, 1] all=5 dead=3 stop_count=0
+history=[3, 4, 1, 4, 2] all=5 dead=0 stop_count=1
+history=[4, 1, 2, 1, 4, 2] all=5 dead=4 stop_count=0
+history=[1, 4, 1, 4, 2, 1] all=5 dead=2 stop_count=1
+history=[4, 1, 2, 4, 1, 2, 1] all=5 dead=2 stop_count=1
+history=[2, 1, 4, 2, 4, 2] all=5 dead=2 stop_count=0
+history=[4, 3, 4, 1] all=5 dead=0 stop_count=0
+history=[2, 4, 1, 4, 1, 4] all=5 dead=1 stop_count=1
+history=[4, 2, 1, 4, 1, 4] all=5 dead=3 stop_count=1
+history=[1, 4, 2, 1, 4, 2] all=5 dead=2 stop_count=0
+history=[3, 4, 1, 4] all=5 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 2] all=5 dead=3 stop_count=1
+history=[4, 2, 4, 1, 4, 2] all=5 dead=2 stop_count=1
+history=[2, 3, 2, 4] all=5 dead=3 stop_count=0
+history=[4, 1, 2, 1, 4, 1] all=5 dead=3 stop_count=1
+history=[1, 2, 1, 2, 4, 1] all=5 dead=2 stop_count=0
+history=[2, 1, 4, 1, 3] all=5 dead=1 stop_count=0
+history=[1, 2, 4, 2, 1, 2] all=5 dead=1 stop_count=0
+history=[2, 4, 2, 3] all=5 dead=2 stop_count=0
+history=[2, 4, 1, 3] all=5 dead=1 stop_count=1
+history=[2, 4, 2, 1, 4, 1] all=5 dead=2 stop_count=0
+history=[4, 3, 1, 4] all=5 dead=1 stop_count=0
+history=[2, 1, 3, 1] all=5 dead=1 stop_count=0
+history=[4, 1, 4, 2, 1, 4] all=5 dead=3 stop_count=1
+history=[2, 1, 2, 1, 4, 2] all=5 dead=4 stop_count=1
+history=[1, 2, 4, 2, 3] all=4 dead=0 stop_count=2
+history=[2, 4, 3, 4, 1] all=4 dead=0 stop_count=2
+history=[2, 1, 4, 2, 4, 1] all=4 dead=1 stop_count=1
+history=[1, 2, 4, 1, 4, 1] all=4 dead=4 stop_count=0
+history=[4, 2, 1, 3] all=4 dead=1 stop_count=0
+history=[1, 4, 2, 4, 1, 2] all=4 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 1] all=4 dead=4 stop_count=0
+history=[4, 3, 1, 2] all=4 dead=1 stop_count=1
+history=[4, 3, 4, 1, 4] all=4 dead=1 stop_count=2
+history=[1, 3, 1, 4, 1] all=4 dead=1 stop_count=1
+history=[2, 3, 1, 4] all=4 dead=0 stop_count=0
+history=[2, 1, 2, 4, 1, 4, 1] all=4 dead=2 stop_count=1
+history=[1, 4, 1, 4, 1, 4] all=4 dead=2 stop_count=2
+history=[1, 3, 4, 1, 2] all=4 dead=2 stop_count=0
+history=[1, 4, 1, 4, 1, 4, 1] all=4 dead=2 stop_count=1
+history=[2, 1, 2, 1, 3] all=4 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 1, 4] all=4 dead=1 stop_count=0
+history=[2, 1, 3, 2] all=4 dead=0 stop_count=0
+history=[4, 2, 1, 4, 1, 2, 1] all=4 dead=1 stop_count=1
+history=[2, 1, 3, 1, 2] all=4 dead=1 stop_count=1
+history=[1, 4, 3, 1, 4] all=4 dead=2 stop_count=1
+history=[2, 4, 1, 2, 4, 2, 4] all=4 dead=1 stop_count=0
+history=[4, 2, 4, 3] all=4 dead=2 stop_count=0
+history=[3, 4, 1, 2, 1] all=4 dead=4 stop_count=0
+history=[1, 2, 1, 2, 4, 1, 2] all=4 dead=3 stop_count=0
+history=[1, 4, 1, 4, 1, 2, 4] all=4 dead=2 stop_count=1
+history=[1, 2, 3, 1, 2] all=4 dead=3 stop_count=0
+history=[3, 2, 1, 2, 4] all=4 dead=3 stop_count=0
+history=[4, 1, 4, 1, 2, 4, 1] all=4 dead=2 stop_count=0
+history=[4, 1, 4, 3] all=4 dead=0 stop_count=1
+history=[4, 1, 2, 4, 1, 2, 4] all=4 dead=2 stop_count=0
+history=[3, 2, 1, 4] all=4 dead=0 stop_count=1
+history=[2, 1, 4, 1, 4, 2] all=4 dead=1 stop_count=1
+history=[1, 2, 4, 1, 4, 2, 1] all=4 dead=2 stop_count=1
+history=[1, 2, 1, 2, 1, 2, 1] all=4 dead=1 stop_count=0
+history=[2, 1, 2, 3] all=4 dead=0 stop_count=0
+history=[4, 2, 4, 2, 4, 1] all=4 dead=2 stop_count=0
+history=[1, 2, 1, 2, 3] all=4 dead=1 stop_count=0
+history=[4, 2, 1, 4, 1, 2] all=4 dead=1 stop_count=1
+history=[4, 1, 4, 1, 4, 2] all=4 dead=1 stop_count=0
+history=[4, 2, 4, 2, 1, 2] all=4 dead=2 stop_count=0
+history=[2, 1, 2, 4, 1, 4] all=4 dead=3 stop_count=0
+history=[3, 1, 2, 1, 4] all=4 dead=3 stop_count=0
+history=[1, 4, 1, 4, 1, 2, 1] all=4 dead=1 stop_count=1
+history=[2, 1, 3, 2, 1] all=4 dead=2 stop_count=0
+history=[2, 4, 3, 4] all=4 dead=1 stop_count=0
+history=[4, 2, 1, 2, 1, 2] all=4 dead=3 stop_count=0
+history=[4, 2, 4, 1, 2, 1] all=4 dead=2 stop_count=0
+history=[2, 1, 4, 1, 4, 1, 2] all=4 dead=2 stop_count=0
+history=[2, 4, 1, 4, 2, 4] all=4 dead=1 stop_count=0
+history=[2, 1, 4, 3, 1] all=4 dead=0 stop_count=1
+history=[3, 4, 2, 1] all=4 dead=1 stop_count=0
+history=[2, 1, 4, 1, 2, 4, 1] all=3 dead=1 stop_count=1
+history=[2, 1, 4, 2, 3, 1] all=3 dead=2 stop_count=0
+history=[2, 4, 1, 4, 1, 2] all=3 dead=3 stop_count=0
+history=[1, 4, 1, 3] all=3 dead=1 stop_count=0
+history=[1, 2, 1, 4, 1, 4, 2] all=3 dead=2 stop_count=0
+history=[2, 4, 1, 4, 1, 4, 1] all=3 dead=0 stop_count=1
+history=[4, 2, 3, 2] all=3 dead=1 stop_count=0
+history=[2, 4, 3, 2] all=3 dead=0 stop_count=0
+history=[2, 4, 3, 1, 2] all=3 dead=1 stop_count=0
+history=[1, 2, 4, 1, 2, 4] all=3 dead=2 stop_count=1
+history=[1, 3, 4, 1] all=3 dead=0 stop_count=0
+history=[1, 4, 2, 4, 2, 1] all=3 dead=0 stop_count=0
+history=[2, 3, 1, 4, 2] all=3 dead=0 stop_count=1
+history=[4, 2, 1, 4, 1, 4, 1, 2] all=3 dead=2 stop_count=0
+history=[1, 2, 4, 2, 4, 2, 4] all=3 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 2, 1] all=3 dead=0 stop_count=0
+history=[2, 4, 1, 2, 1, 2, 4] all=3 dead=2 stop_count=0
+history=[1, 2, 4, 2, 1, 4, 1] all=3 dead=1 stop_count=1
+history=[1, 3, 4, 2, 4, 1] all=3 dead=1 stop_count=0
+history=[4, 1, 4, 1, 4, 1, 2] all=3 dead=1 stop_count=0
+history=[1, 4, 1, 4, 2, 1, 2, 1] all=3 dead=3 stop_count=0
+history=[2, 1, 2, 4, 1, 4, 2] all=3 dead=1 stop_count=1
+history=[2, 4, 1, 4, 1, 2, 4] all=3 dead=2 stop_count=0
+history=[1, 4, 1, 2, 4, 1, 4] all=3 dead=0 stop_count=0
+history=[1, 2, 3, 4, 2] all=3 dead=1 stop_count=1
+history=[1, 4, 2, 3, 4, 1] all=3 dead=1 stop_count=1
+history=[4, 2, 1, 4, 3] all=3 dead=1 stop_count=1
+history=[1, 2, 3, 4] all=3 dead=1 stop_count=0
+history=[2, 1, 2, 1, 4, 2, 4] all=3 dead=1 stop_count=1
+history=[2, 1, 3, 4, 2, 1] all=3 dead=2 stop_count=0
+history=[4, 1, 2, 1, 4, 1, 4] all=3 dead=1 stop_count=0
+history=[1, 3, 2, 4, 1] all=3 dead=1 stop_count=1
+history=[1, 2, 4, 1, 2, 1, 4] all=3 dead=2 stop_count=0
+history=[3, 1, 4, 2] all=3 dead=1 stop_count=0
+history=[4, 1, 3, 1, 4] all=3 dead=1 stop_count=2
+history=[1, 2, 1, 2, 4, 2, 4] all=3 dead=2 stop_count=0
+history=[3, 2, 1, 4, 2] all=3 dead=1 stop_count=0
+history=[1, 2, 4, 1, 2, 4, 1, 4] all=3 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 1, 4, 1] all=3 dead=3 stop_count=0
+history=[2, 3, 4, 1, 4, 1] all=3 dead=1 stop_count=1
+history=[4, 1, 4, 1, 4, 1] all=3 dead=1 stop_count=0
+history=[1, 2, 3, 1, 4, 1] all=3 dead=2 stop_count=0
+history=[2, 1, 2, 4, 1, 2, 4] all=3 dead=1 stop_count=0
+history=[4, 2, 1, 2, 4, 3] all=3 dead=2 stop_count=0
+history=[1, 2, 4, 2, 4, 2, 1] all=3 dead=1 stop_count=1
+history=[1, 2, 1, 4, 1, 2, 1] all=3 dead=1 stop_count=1
+history=[1, 2, 1, 4, 2, 4] all=3 dead=2 stop_count=0
+history=[1, 3, 2, 1, 2] all=3 dead=0 stop_count=2
+history=[2, 1, 2, 1, 4, 2, 1, 2] all=3 dead=2 stop_count=0
+history=[1, 2, 3, 1, 4] all=3 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 1, 2] all=3 dead=1 stop_count=1
+history=[4, 1, 4, 2, 4, 2] all=3 dead=1 stop_count=1
+history=[4, 2, 4, 2, 4, 2] all=3 dead=1 stop_count=0
+history=[2, 4, 1, 2, 4, 1] all=3 dead=2 stop_count=1
+history=[2, 4, 1, 4, 1, 2, 1] all=3 dead=2 stop_count=0
+history=[1, 2, 1, 3, 4, 1] all=3 dead=1 stop_count=2
+history=[1, 2, 4, 3, 1] all=3 dead=0 stop_count=0
+history=[4, 1, 2, 4, 2, 4] all=3 dead=2 stop_count=0
+history=[1, 2, 1, 4, 1, 2, 4] all=3 dead=0 stop_count=0
+history=[1, 2, 1, 2, 1, 4, 2] all=3 dead=1 stop_count=1
+history=[3, 1, 4, 1, 4] all=3 dead=2 stop_count=1
+history=[3, 2, 1, 4, 1] all=3 dead=0 stop_count=0
+history=[4, 2, 4, 1, 2, 1, 4] all=3 dead=1 stop_count=0
+history=[4, 1, 4, 3, 2] all=3 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 2, 4] all=3 dead=2 stop_count=0
+history=[2, 3, 4, 1, 2] all=3 dead=0 stop_count=1
+history=[2, 1, 4, 2, 1, 4] all=3 dead=0 stop_count=0
+history=[1, 4, 1, 2, 1, 2, 4] all=3 dead=1 stop_count=1
+history=[3, 1, 4, 1, 2] all=3 dead=0 stop_count=0
+history=[1, 2, 4, 2, 1, 3] all=3 dead=0 stop_count=2
+history=[4, 3, 4, 1, 2] all=3 dead=1 stop_count=0
+history=[1, 4, 1, 4, 1, 2, 1, 4] all=3 dead=1 stop_count=0
+history=[4, 1, 4, 2, 1, 4, 1, 2] all=3 dead=3 stop_count=0
+history=[4, 2, 1, 2, 4, 2, 4] all=3 dead=2 stop_count=0
+history=[2, 1, 3, 4, 1] all=3 dead=2 stop_count=0
+history=[1, 2, 4, 3] all=3 dead=1 stop_count=1
+history=[4, 1, 4, 2, 4, 1] all=3 dead=1 stop_count=1
+history=[2, 4, 2, 4, 1, 2] all=3 dead=1 stop_count=0
+history=[2, 1, 4, 1, 4, 2, 1] all=3 dead=1 stop_count=0
+history=[4, 3, 4, 2] all=3 dead=3 stop_count=0
+history=[2, 3, 1, 2] all=3 dead=0 stop_count=1
+history=[2, 4, 1, 2, 1, 2, 4, 1] all=3 dead=3 stop_count=0
+history=[4, 2, 4, 2, 4, 2, 4, 2] all=2 dead=0 stop_count=0
+history=[3, 2, 4, 1, 2] all=2 dead=0 stop_count=0
+history=[1, 2, 4, 3, 2] all=2 dead=1 stop_count=0
+history=[1, 2, 3, 4, 1] all=2 dead=2 stop_count=0
+history=[4, 3, 2, 1, 4] all=2 dead=0 stop_count=1
+history=[2, 1, 4, 1, 4, 1, 4] all=2 dead=1 stop_count=1
+history=[1, 2, 4, 2, 4, 1, 2, 4] all=2 dead=1 stop_count=1
+history=[1, 2, 4, 1, 4, 1, 2] all=2 dead=1 stop_count=1
+history=[2, 4, 2, 4, 1, 2, 1] all=2 dead=1 stop_count=1
+history=[4, 1, 4, 2, 4, 1, 4] all=2 dead=1 stop_count=0
+history=[1, 4, 2, 4, 2, 4, 1] all=2 dead=0 stop_count=0
+history=[1, 4, 2, 3, 2] all=2 dead=0 stop_count=0
+history=[2, 3, 4, 1, 2, 1] all=2 dead=1 stop_count=0
+history=[1, 2, 4, 2, 4, 2] all=2 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 4, 1, 4, 1] all=2 dead=1 stop_count=1
+history=[1, 2, 4, 1, 2, 1, 2, 4] all=2 dead=0 stop_count=0
+history=[1, 4, 1, 4, 3] all=2 dead=2 stop_count=0
+history=[4, 3, 1, 4, 2] all=2 dead=2 stop_count=0
+history=[1, 4, 3, 4] all=2 dead=2 stop_count=0
+history=[2, 1, 3, 2, 4, 2] all=2 dead=0 stop_count=1
+history=[1, 3, 4, 2, 1] all=2 dead=1 stop_count=0
+history=[1, 4, 2, 1, 2, 1, 4] all=2 dead=1 stop_count=0
+history=[2, 1, 2, 4, 2, 4, 1] all=2 dead=2 stop_count=0
+history=[4, 2, 3, 4] all=2 dead=0 stop_count=0
+history=[3, 1, 4, 2, 3, 1] all=2 dead=1 stop_count=1
+history=[2, 1, 4, 2, 4, 1, 4] all=2 dead=1 stop_count=0
+history=[2, 3, 4, 2] all=2 dead=1 stop_count=0
+history=[4, 2, 1, 4, 2, 1, 2, 1, 4] all=2 dead=1 stop_count=0
+history=[4, 1, 4, 1, 2, 4] all=2 dead=1 stop_count=1
+history=[3, 4, 2, 1, 2] all=2 dead=1 stop_count=0
+history=[3, 1, 2, 1, 2, 4] all=2 dead=1 stop_count=0
+history=[4, 2, 4, 2, 3] all=2 dead=0 stop_count=0
+history=[1, 4, 1, 3, 2, 1] all=2 dead=1 stop_count=0
+history=[1, 3, 2, 4, 2, 4] all=2 dead=0 stop_count=1
+history=[2, 1, 4, 2, 1, 4, 1] all=2 dead=0 stop_count=1
+history=[1, 3, 4, 2, 4] all=2 dead=0 stop_count=0
+history=[2, 4, 1, 2, 1, 2, 1] all=2 dead=1 stop_count=0
+history=[1, 4, 1, 2, 1, 4, 2] all=2 dead=2 stop_count=0
+history=[1, 4, 1, 4, 2, 1, 4, 1] all=2 dead=0 stop_count=0
+history=[2, 4, 2, 4, 2, 1, 4] all=2 dead=0 stop_count=1
+history=[2, 4, 2, 4, 2, 4] all=2 dead=0 stop_count=0
+history=[4, 1, 4, 3, 4] all=2 dead=1 stop_count=0
+history=[2, 1, 3, 2, 1, 4] all=2 dead=1 stop_count=0
+history=[2, 4, 2, 4, 1, 4, 1, 2] all=2 dead=1 stop_count=0
+history=[1, 4, 1, 4, 2, 1, 4, 2] all=2 dead=1 stop_count=0
+history=[2, 3, 4, 2, 1, 4, 1] all=2 dead=0 stop_count=0
+history=[1, 2, 3, 2, 1] all=2 dead=1 stop_count=0
+history=[1, 4, 1, 2, 1, 2, 1] all=2 dead=0 stop_count=0
+history=[4, 1, 4, 1, 2, 4, 2, 1] all=2 dead=2 stop_count=0
+history=[3, 4, 1, 2, 4] all=2 dead=1 stop_count=1
+history=[1, 4, 3, 4, 2] all=2 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 1, 2, 1, 2] all=2 dead=2 stop_count=0
+history=[2, 4, 2, 1, 3, 2] all=2 dead=1 stop_count=0
+history=[1, 4, 3, 4, 2, 1] all=2 dead=0 stop_count=0
+history=[1, 2, 3, 2, 1, 4] all=2 dead=1 stop_count=0
+history=[1, 3, 1, 4, 2] all=2 dead=1 stop_count=0
+history=[4, 2, 1, 2, 4, 2, 1] all=2 dead=0 stop_count=0
+history=[1, 4, 1, 4, 2, 1, 4] all=2 dead=0 stop_count=1
+history=[4, 1, 3, 1, 2, 4, 2] all=2 dead=2 stop_count=0
+history=[2, 4, 2, 4, 2, 1] all=2 dead=1 stop_count=0
+history=[2, 4, 2, 1, 4, 2, 4] all=2 dead=2 stop_count=0
+history=[4, 2, 1, 2, 1, 4, 1] all=2 dead=2 stop_count=0
+history=[4, 2, 1, 2, 4, 1, 4] all=2 dead=0 stop_count=1
+history=[4, 1, 4, 2, 1, 3, 1] all=2 dead=1 stop_count=1
+history=[2, 1, 4, 2, 1, 2, 1] all=2 dead=0 stop_count=0
+history=[2, 1, 4, 1, 2, 4, 2] all=2 dead=1 stop_count=0
+history=[1, 4, 1, 2, 4, 1, 2] all=2 dead=1 stop_count=0
+history=[2, 4, 2, 1, 4, 1, 4, 1] all=2 dead=1 stop_count=0
+history=[1, 2, 3, 2] all=2 dead=1 stop_count=0
+history=[4, 2, 1, 4, 1, 4, 3, 1] all=2 dead=2 stop_count=0
+history=[4, 2, 4, 1, 4, 1, 2, 4] all=2 dead=2 stop_count=0
+history=[4, 1, 2, 4, 2, 1, 4] all=2 dead=1 stop_count=0
+history=[2, 4, 2, 4, 1, 4, 1] all=2 dead=2 stop_count=0
+history=[2, 1, 4, 3, 4, 1] all=2 dead=2 stop_count=0
+history=[4, 2, 3, 4, 2] all=2 dead=1 stop_count=0
+history=[2, 1, 2, 1, 4, 2, 1] all=2 dead=0 stop_count=0
+history=[4, 1, 4, 1, 2, 1, 2] all=2 dead=1 stop_count=0
+history=[1, 4, 3, 1, 2] all=2 dead=0 stop_count=1
+history=[1, 2, 1, 3, 4] all=2 dead=1 stop_count=0
+history=[2, 4, 1, 4, 2, 1, 4] all=2 dead=2 stop_count=0
+history=[1, 3, 2, 4, 2, 1] all=2 dead=0 stop_count=0
+history=[2, 4, 1, 2, 4, 2] all=2 dead=0 stop_count=1
+history=[3, 2, 1, 2, 1, 4] all=2 dead=0 stop_count=0
+history=[4, 2, 4, 2, 4, 1, 2] all=2 dead=0 stop_count=0
+history=[4, 1, 4, 1, 2, 1, 4] all=2 dead=0 stop_count=0
+history=[1, 2, 1, 4, 2, 3] all=2 dead=0 stop_count=1
+history=[2, 1, 2, 1, 4, 1, 2] all=2 dead=1 stop_count=1
+history=[3, 1, 3, 2] all=2 dead=0 stop_count=1
+history=[2, 1, 3, 1, 4, 1] all=2 dead=2 stop_count=0
+history=[1, 4, 1, 4, 3, 1] all=2 dead=0 stop_count=1
+history=[1, 4, 3, 4, 1, 4] all=2 dead=1 stop_count=0
+history=[1, 3, 2, 4] all=2 dead=2 stop_count=0
+history=[2, 1, 4, 2, 1, 4, 1, 2] all=2 dead=1 stop_count=0
+history=[3, 2, 1, 2, 1, 2, 1, 4] all=2 dead=1 stop_count=0
+history=[1, 3, 1, 4, 2, 4, 1] all=2 dead=0 stop_count=0
+history=[2, 4, 3, 4, 2, 1] all=2 dead=0 stop_count=0
+history=[1, 4, 1, 2, 4, 3] all=2 dead=1 stop_count=0
+history=[4, 1, 4, 1, 3, 2] all=2 dead=0 stop_count=0
+history=[4, 1, 4, 3, 1, 4] all=2 dead=1 stop_count=1
+history=[2, 1, 3, 1, 2, 1, 2] all=2 dead=2 stop_count=0
+history=[1, 2, 1, 4, 1, 4, 2, 1] all=2 dead=1 stop_count=1
+history=[1, 4, 2, 1, 2, 1, 2] all=2 dead=0 stop_count=0
+history=[4, 1, 2, 3, 1] all=2 dead=1 stop_count=0
+history=[4, 2, 1, 2, 1, 2, 1] all=2 dead=2 stop_count=0
+history=[2, 4, 1, 4, 2, 4, 1, 4, 1] all=2 dead=2 stop_count=0
+history=[1, 4, 1, 2, 1, 2, 3] all=2 dead=1 stop_count=0
+history=[4, 1, 3, 4, 1] all=2 dead=0 stop_count=1
+history=[1, 4, 1, 4, 1, 3] all=2 dead=1 stop_count=0
+history=[2, 4, 1, 4, 2, 3] all=2 dead=1 stop_count=1
+history=[1, 2, 4, 1, 3] all=2 dead=0 stop_count=2
+history=[2, 3, 1, 2, 4] all=2 dead=1 stop_count=0
+history=[1, 2, 1, 4, 2, 1, 4, 2] all=2 dead=1 stop_count=1
+history=[1, 4, 2, 1, 4, 1] all=2 dead=2 stop_count=0
+history=[1, 4, 2, 4, 2, 4, 1, 2, 4] all=2 dead=2 stop_count=0
+history=[4, 1, 2, 4, 2, 4, 1] all=2 dead=2 stop_count=0
+history=[1, 4, 2, 1, 2, 1, 4, 2] all=2 dead=0 stop_count=0
+history=[1, 4, 1, 2, 4, 2, 1, 4] all=2 dead=1 stop_count=0
+history=[4, 1, 4, 1, 4, 1, 4] all=2 dead=1 stop_count=0
+history=[3, 2, 1, 2, 4, 1] all=2 dead=0 stop_count=1
+history=[1, 2, 4, 1, 3, 1] all=2 dead=1 stop_count=0
+history=[4, 1, 2, 4, 1, 4, 1] all=2 dead=1 stop_count=1
+history=[1, 2, 4, 1, 2, 1, 2] all=2 dead=2 stop_count=0
+history=[1, 2, 4, 1, 3, 2, 1] all=2 dead=0 stop_count=0
+history=[3, 1, 2, 3] all=2 dead=1 stop_count=0
+history=[4, 3, 2, 4, 1] all=2 dead=0 stop_count=1
+history=[4, 2, 4, 1, 4, 2, 1] all=2 dead=0 stop_count=1
+history=[1, 4, 1, 4, 2, 4, 1] all=2 dead=1 stop_count=0
+history=[1, 2, 4, 3, 2, 1] all=2 dead=1 stop_count=0
+history=[1, 3, 2, 4, 2] all=2 dead=1 stop_count=0
+history=[1, 4, 1, 3, 4, 2] all=2 dead=0 stop_count=0
+history=[2, 3, 2, 1, 4] all=2 dead=0 stop_count=0
+history=[2, 4, 2, 4, 1, 2, 4] all=2 dead=2 stop_count=0
+history=[2, 1, 4, 2, 3, 2, 1] all=2 dead=2 stop_count=0
+history=[2, 1, 2, 1, 4, 1, 2, 4] all=2 dead=1 stop_count=1
+history=[1, 2, 4, 1, 4, 2, 4, 1] all=2 dead=0 stop_count=0
+history=[1, 2, 1, 2, 4, 2, 1] all=2 dead=0 stop_count=0
+history=[1, 3, 1, 2, 4, 2] all=2 dead=2 stop_count=0
+history=[1, 2, 4, 1, 4, 1, 2, 1] all=2 dead=0 stop_count=0
+history=[2, 4, 3, 2, 4] all=2 dead=0 stop_count=0
+history=[4, 1, 4, 1, 2, 4, 2] all=2 dead=0 stop_count=0
+history=[1, 4, 2, 4, 1, 2, 1] all=2 dead=0 stop_count=0
+history=[4, 2, 4, 2, 4, 2, 1] all=2 dead=0 stop_count=0
+history=[1, 4, 2, 1, 4, 1, 2] all=2 dead=1 stop_count=1
+history=[4, 2, 4, 1, 4, 1, 2] all=2 dead=1 stop_count=0
+history=[2, 4, 3, 1] all=2 dead=0 stop_count=0
+history=[4, 1, 2, 1, 2, 4, 1] all=2 dead=1 stop_count=1
+history=[2, 4, 1, 2, 4, 2, 1, 2] all=2 dead=0 stop_count=1
+history=[1, 2, 1, 4, 2, 4, 1] all=2 dead=1 stop_count=1
+history=[4, 3, 1, 2, 4] all=2 dead=1 stop_count=0
+history=[1, 2, 4, 1, 4, 2, 4] all=2 dead=1 stop_count=1
+history=[2, 4, 2, 1, 3] all=2 dead=2 stop_count=0
+history=[1, 3, 1, 2, 1] all=2 dead=0 stop_count=0
+history=[4, 2, 1, 4, 2, 4] all=2 dead=1 stop_count=0
+history=[1, 4, 2, 1, 2, 4] all=2 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 4, 2] all=2 dead=0 stop_count=0
+history=[2, 4, 2, 3, 4, 2] all=2 dead=2 stop_count=0
+history=[2, 1, 2, 4, 1, 2, 1, 4] all=2 dead=1 stop_count=1
+history=[1, 4, 3, 2] all=2 dead=1 stop_count=1
+history=[2, 1, 4, 1, 2, 1, 4, 1] all=2 dead=1 stop_count=0
+history=[1, 4, 1, 2, 1, 3, 1] all=2 dead=1 stop_count=0
+history=[3, 1, 2, 4, 1] all=2 dead=0 stop_count=2
+history=[1, 2, 4, 2, 1, 2, 4, 1] all=2 dead=0 stop_count=1
+history=[1, 4, 1, 2, 3] all=2 dead=1 stop_count=0
+history=[1, 2, 4, 1, 2, 4, 2] all=2 dead=1 stop_count=1
+history=[2, 3, 1, 4, 1] all=2 dead=0 stop_count=0
+history=[1, 2, 1, 2, 4, 2, 1, 2] all=2 dead=2 stop_count=0
+history=[2, 4, 3, 2, 4, 2] all=2 dead=0 stop_count=0
+history=[2, 1, 2, 3, 1] all=2 dead=1 stop_count=0
+history=[2, 4, 1, 4, 3] all=2 dead=2 stop_count=0
+history=[1, 2, 1, 2, 1, 4, 1] all=2 dead=1 stop_count=0
+history=[1, 2, 1, 4, 1, 2, 4, 1] all=2 dead=1 stop_count=0
+history=[4, 1, 4, 2, 4, 1, 2] all=2 dead=1 stop_count=0
+history=[3, 2, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 3, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 3, 1, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[3, 2, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 4, 2, 4, 3, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[3, 1, 4, 3] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 3, 4, 2, 1, 2, 1, 4, 1, 2] all=1 dead=0 stop_count=1
+history=[3, 2, 3, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 1, 2, 3, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 3] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 3, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 3, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 3, 4] all=1 dead=0 stop_count=0
+history=[4, 3, 2, 1, 2, 3, 2, 4] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 2, 1, 2, 4, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 3, 4] all=1 dead=1 stop_count=0
+history=[2, 3, 2, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 3, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 3, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 3, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[3, 2, 1, 3, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 3, 2, 3] all=1 dead=0 stop_count=0
+history=[4, 3, 2, 3, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 3, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 3, 4, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[3, 4, 1, 2, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 3, 4, 1, 2, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 3, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 2, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 2, 3, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 3, 4, 3, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 3, 4, 1, 3] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[3, 2, 3] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 1, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 1, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 2, 3, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[3, 1, 2, 3, 2, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 4, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[2, 4, 3, 4, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 2, 4, 1, 2, 1, 3, 4, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 4, 1, 3, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 1, 2, 3] all=1 dead=0 stop_count=1
+history=[4, 1, 4, 2, 1, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 3, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 3, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 4, 2, 4, 1, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 3, 1, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 2, 1, 2, 3] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 3, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[3, 4, 2, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[3, 4, 1, 2, 1, 4, 1, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 4, 1, 3] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 4, 2, 4, 3, 4] all=1 dead=0 stop_count=1
+history=[2, 4, 2, 4, 1, 4, 2, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 3, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 3, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 2, 4, 2, 4, 2] all=1 dead=0 stop_count=1
+history=[4, 2, 1, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 4, 2, 3, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[3, 4, 1, 4, 1, 2, 1, 4, 2, 3, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 4, 1, 4, 1, 2, 3] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 2, 3, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 3, 1, 4, 2, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 2, 4, 3, 4] all=1 dead=0 stop_count=0
+history=[3, 4, 1, 4, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[3, 4, 1, 2, 4, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 3, 4, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 4, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 1, 2, 4, 2, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 4, 1, 4, 2, 1, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 1, 2, 3] all=1 dead=0 stop_count=0
+history=[3, 1, 3, 4, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 3, 2, 4] all=1 dead=0 stop_count=1
+history=[4, 2, 4, 2, 1, 3, 1, 3, 4] all=1 dead=0 stop_count=1
+history=[3, 4, 3, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 4, 2, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 1, 3, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 2, 1, 2, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 4, 1, 4, 2, 1, 4] all=1 dead=0 stop_count=1
+history=[4, 2, 4, 2, 1, 2, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 4, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 3, 2, 3, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 4, 1, 2, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 3, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 1, 4, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 3, 2, 4, 1, 3, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 4, 1, 4, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 3, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 4, 1, 4, 2] all=1 dead=0 stop_count=1
+history=[4, 2, 1, 2, 4, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 1, 3, 2, 4, 2, 1, 4, 1, 4, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 1, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 4, 3] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 3, 4, 2, 1, 2, 1, 2, 4] all=1 dead=0 stop_count=1
+history=[4, 2, 1, 2, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 1, 3, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 3, 1, 3, 2, 4] all=1 dead=0 stop_count=1
+history=[2, 4, 1, 4, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 2, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 2, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 3, 1, 2, 4, 2] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 3, 1] all=1 dead=0 stop_count=1
+history=[2, 1, 3, 4, 1, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 3, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 1, 4, 2] all=1 dead=0 stop_count=1
+history=[2, 1, 4, 1, 4, 2, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 1, 2, 4, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 3, 2, 1, 2, 1, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 2, 4, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 1, 2, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 1, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 1, 4, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[3, 1, 3, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 1, 4, 2, 1, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 4, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 3, 1, 2, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 1, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 3, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 3, 2, 4, 1, 4, 2] all=1 dead=0 stop_count=1
+history=[2, 1, 4, 2, 3, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 4, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[3, 2, 3, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 4, 1, 3] all=1 dead=0 stop_count=1
+history=[1, 3, 4, 2, 1, 4, 1] all=1 dead=0 stop_count=1
+history=[4, 2, 1, 4, 2, 4, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 3, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 1, 2, 1, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 3, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 3, 1, 2, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 3, 4, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 3, 2, 1, 3, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 4, 1, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[3, 1, 4, 1, 3] all=1 dead=0 stop_count=0
+history=[4, 3, 1, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 3, 1, 2, 1, 4] all=1 dead=0 stop_count=1
+history=[4, 2, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 3, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 3, 4, 1, 2, 4, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 4, 2, 1, 2, 3, 2] all=1 dead=0 stop_count=1
+history=[3, 1, 4, 2, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 2, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 3, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 2, 1, 4, 3] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 1, 3, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 1, 2, 1, 4, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 4, 1, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 1, 2] all=1 dead=0 stop_count=1
+history=[1, 4, 1, 3, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 4, 1, 4, 1, 4, 2] all=1 dead=0 stop_count=0
+history=[1, 4, 3, 2, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 1, 4, 3, 1, 3] all=1 dead=1 stop_count=0
+history=[1, 2, 3, 4, 1, 4, 1, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 1, 3, 4, 1] all=1 dead=0 stop_count=1
+history=[2, 4, 2, 3, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 2, 1, 4, 3, 2, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 3, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 1, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 1, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 1, 2, 4, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 1, 4, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 1, 2, 4, 1] all=1 dead=0 stop_count=1
+history=[4, 2, 1, 2, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 4, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 3, 1, 2, 4, 1, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 3, 4, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 3, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 3, 1, 2, 3] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 4, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 2, 4, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[3, 2, 4, 1, 2, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 1, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 4, 1, 2, 4, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 4, 1, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[3, 1, 3] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 3] all=1 dead=1 stop_count=0
+history=[4, 2, 3, 4, 2, 3, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 1, 4, 2, 1, 2, 3, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 2, 4, 2, 4] all=1 dead=0 stop_count=1
+history=[1, 4, 2, 1, 4, 1, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 2, 4, 3] all=1 dead=1 stop_count=0
+history=[4, 3, 4, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 3, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 3, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 4, 1, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 3, 2, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 3, 4, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 3, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 2, 3, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 4, 2, 3, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 3, 1, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 3, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 1, 3, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 1, 2, 3, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 2, 4, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 3, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 4, 2, 4, 1] all=1 dead=0 stop_count=1
+history=[1, 4, 2, 4, 3, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 4, 1, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 3, 4, 2, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 3, 4, 1, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 3, 4, 3, 4, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 1, 4, 1] all=1 dead=0 stop_count=1
+history=[1, 2, 4, 1, 2, 1, 2, 4, 2, 4, 2, 1] all=1 dead=0 stop_count=1
+history=[2, 4, 1, 4, 2, 3, 4] all=1 dead=0 stop_count=1
+history=[2, 4, 1, 2, 1, 3, 2] all=1 dead=0 stop_count=1
+history=[4, 2, 1, 2, 1, 3] all=1 dead=0 stop_count=1
+history=[1, 4, 1, 2, 4, 1, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 4, 1, 2, 1, 3, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 3, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 2, 4, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 3, 1, 2, 1, 4] all=1 dead=0 stop_count=1
+history=[4, 2, 4, 2, 4, 1, 4, 3, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 1, 4, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 3, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 1, 4, 2, 3, 1] all=1 dead=1 stop_count=0
+history=[3, 2, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 2, 4, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 4, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 4, 2, 3, 4] all=1 dead=0 stop_count=1
+history=[4, 2, 3, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 1, 2, 4, 2, 1, 4] all=1 dead=0 stop_count=1
+history=[4, 1, 2, 1, 4, 1, 4, 2, 1, 4, 3, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 3, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 2, 3, 2, 3, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 4, 1, 4, 2, 4] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 4, 1, 2, 4, 3, 1] all=1 dead=0 stop_count=0
+history=[4, 3, 1, 3, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 3, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 4, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 1, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 1, 4, 2, 4, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 3, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 4, 2, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 1, 4, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 1, 4, 2, 1, 4, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 3, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 2, 4, 1, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 3, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 4, 1, 2, 1, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 4, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 3, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 4, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 3, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 3, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 4, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 3, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 4, 2, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 3, 1, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 2, 3] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 1, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 2, 1, 2, 1, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 2, 1, 3, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 2, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 4, 1, 4, 3, 1, 4, 3] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 2, 3, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 4, 2, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 3, 1, 2, 1, 2, 3, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 1, 2, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 1, 2, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 2, 1, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 1, 4, 1, 4] all=1 dead=0 stop_count=1
+history=[1, 2, 4, 3, 1, 2, 4, 2, 4, 3, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 1, 2, 1, 4, 2, 1, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 1, 4, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 3, 2, 1, 3, 4, 2] all=1 dead=1 stop_count=0
+history=[3, 4, 1, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 3, 4, 1, 2, 3] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 3, 1, 4, 3, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 3] all=1 dead=0 stop_count=1
+history=[4, 3, 2, 4, 3, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 3, 4, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 4, 2, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 3, 4, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 3, 4, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 3, 1, 4, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 4, 3, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 1, 2, 4, 1, 3] all=1 dead=1 stop_count=0
+history=[2, 3, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 3, 2, 4] all=1 dead=1 stop_count=0
+history=[3, 2, 4, 1, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[3, 2, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 3, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 3, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 3, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 3, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 3] all=1 dead=1 stop_count=0
+history=[1, 3, 4, 3, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 1, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 3, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 2, 1, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 3, 1, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 3, 1, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 2, 4, 1, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 1, 2, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 3] all=1 dead=1 stop_count=0
+history=[1, 2, 3, 2, 1, 2, 3, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 4, 2, 4, 2, 1, 2, 4, 2, 1, 2] all=1 dead=0 stop_count=1
+history=[1, 4, 2, 1, 4, 1, 2, 3, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 1, 2, 3, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 3, 1, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 2, 1, 4, 1, 3] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 2, 1, 4, 1, 4, 3, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 2, 1, 2, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[3, 1, 4, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[3, 4, 1, 4, 2, 4, 3, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 3, 4, 2] all=1 dead=0 stop_count=0
+history=[1, 3, 4, 1, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 2, 1, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 3, 1, 3, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 2, 1, 2, 4, 2, 4] all=1 dead=0 stop_count=1
+history=[1, 3, 1, 4, 2, 3, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 2, 3, 1] all=1 dead=0 stop_count=1
+history=[4, 2, 1, 4, 1, 4, 2, 1, 4, 1, 2, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 3, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 1, 4, 1, 2] all=1 dead=0 stop_count=1
+history=[2, 1, 2, 4, 2, 3] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 3, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 1, 4, 3, 1] all=1 dead=0 stop_count=1
+history=[4, 1, 2, 3, 2, 1, 4, 1, 4, 1] all=1 dead=0 stop_count=1
+history=[2, 1, 2, 4, 3, 1, 4, 1, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 3, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 1, 3, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 4, 2, 4, 1, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 3, 2, 1, 3, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 4, 1, 3, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 4, 3, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 4, 1, 4, 1, 4, 2, 3] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 1, 4, 2, 4] all=1 dead=0 stop_count=1
+history=[3, 1, 2, 3, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[3, 4, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 2, 3, 1, 4, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 3, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 2, 1, 3] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[3, 1, 2, 4, 1, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 3, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 3, 1, 4, 2, 3] all=1 dead=0 stop_count=0
+history=[1, 3, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 4, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[3, 2, 4, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 4, 3] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 3, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 1, 2, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 3, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 4, 3, 1] all=1 dead=0 stop_count=1
+history=[4, 1, 2, 1, 3, 1, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 1, 4, 3, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 4, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 2, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 3, 2, 1, 4, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 4, 2, 4, 1, 2] all=1 dead=0 stop_count=1
+history=[4, 1, 2, 3, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 1, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 2, 4, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 2, 1, 3, 1] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 3, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 4, 3, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 3, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 4, 1, 2, 1, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 2, 3] all=1 dead=0 stop_count=0
+history=[4, 3, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 1, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 2, 1, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 1, 4, 3, 2] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 2, 4, 3, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 3, 1, 2, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 2, 1, 2] all=1 dead=0 stop_count=1
+history=[2, 4, 1, 4, 3, 1] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 4, 1, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 3, 1, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 3, 1, 2, 1] all=1 dead=0 stop_count=1
+history=[1, 3, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 3, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 3, 1, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 3, 4, 2, 4] all=1 dead=0 stop_count=1
+history=[2, 1, 2, 4, 3, 4, 3, 2] all=1 dead=0 stop_count=1
+history=[3, 1, 2, 4, 1, 4] all=1 dead=0 stop_count=1
+history=[1, 4, 3, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 3, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[3, 2, 4, 3, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[3, 2, 1, 2, 3, 1] all=1 dead=1 stop_count=0
+history=[3, 1, 3, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 3, 2, 1, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[3, 4, 3, 1] all=1 dead=0 stop_count=1
+history=[4, 1, 4, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 1, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[3, 1, 4, 1, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[3, 1, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[3, 4, 3, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[3, 2, 1, 2, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 3, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 1, 3] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 3, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 3, 1, 2, 1, 2, 1, 3] all=1 dead=1 stop_count=0
+history=[3, 1, 4, 1, 4, 2] all=1 dead=0 stop_count=1
+history=[1, 4, 2, 1, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 3, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 4, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 2, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 3, 1, 2, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 1, 4, 2, 1, 3, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 1, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 3, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 2, 1, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 3, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 4, 1, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 1, 3, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 3, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 1, 2, 1, 2, 1, 3] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 2, 1, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 1, 3] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 3, 4, 2, 3, 2] all=1 dead=1 stop_count=0
+history=[3, 2, 1, 2, 1, 4, 2, 4, 2] all=1 dead=0 stop_count=1
+history=[3, 1, 4, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 1, 4, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 1, 2, 3] all=1 dead=0 stop_count=1
+history=[4, 2, 4, 1, 4, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 4, 1, 2, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 3, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 4, 3, 2, 4, 2] all=1 dead=0 stop_count=1
+history=[1, 4, 1, 2, 4, 1, 4, 1, 2, 1, 2, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 3, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 1, 4, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 1, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 1, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 4, 2, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 3, 1, 2] all=1 dead=0 stop_count=0
+history=[3, 1, 4, 1, 3, 1, 4, 1, 3, 2, 1, 2, 4, 3] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 2, 1, 2, 1] all=1 dead=0 stop_count=1
+history=[4, 1, 4, 1, 3, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 3, 4, 1, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 1, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 4, 1, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 1, 2, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 4, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 3, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 3, 2, 4, 3] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 4, 1, 2, 4, 1, 2] all=1 dead=0 stop_count=1
+history=[3, 4, 2, 4, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 3, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 3, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 2, 4, 2, 1, 4, 1, 3] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 3, 1, 4, 1] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 2, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 3, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 3, 1, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 3, 4, 3] all=1 dead=0 stop_count=0
+history=[4, 3, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 3, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 4, 2, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 1, 2, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 3, 4, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[3, 2, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 4, 1, 3, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 2, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 3, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 3, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 4, 3, 2] all=1 dead=0 stop_count=0
+history=[3, 1, 2, 3, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 3, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 3, 1, 4, 2, 3, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 3, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 2, 3] all=1 dead=0 stop_count=1
+history=[1, 4, 2, 4, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 3, 2] all=1 dead=1 stop_count=0
+history=[1, 3, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 2, 4, 2, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 3, 2, 1] all=1 dead=0 stop_count=1
+history=[4, 2, 4, 3, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 3, 2, 3, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 2, 3, 2, 4, 2] all=1 dead=0 stop_count=1
+history=[1, 4, 1, 4, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 1, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 2, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 3, 2, 3, 4, 1, 2, 3, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 3, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 1, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 3, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 3, 4, 1, 4, 2, 1, 2, 4, 2, 1, 2, 1, 3] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 2, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 3, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 4, 3, 4, 1, 4, 2] all=1 dead=0 stop_count=1
+history=[4, 1, 4, 1, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[2, 3, 4, 2, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 1, 4, 2, 4, 1, 3] all=1 dead=1 stop_count=0
+history=[3, 4, 2, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 2, 1, 2, 1, 2, 4, 2] all=1 dead=0 stop_count=1
+history=[2, 1, 4, 1, 2, 1, 4, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 2, 1, 4, 2, 1, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[3, 2, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 1, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 4, 1, 4, 2, 3, 2, 4, 1, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 3, 4, 1] all=1 dead=0 stop_count=1
+history=[1, 2, 4, 2, 3, 2, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 2, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 2, 3, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 3, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[3, 2, 4, 1, 3, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 3, 1, 2, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 2, 3, 4, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 3, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 4, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 3, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 3, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 1, 4, 3, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 3, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 1, 3] all=1 dead=0 stop_count=0
+history=[4, 3, 2, 1, 4, 3, 4, 1, 2, 4, 2, 4, 1] all=1 dead=0 stop_count=1
+history=[2, 4, 1, 3, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 1, 4, 2, 3] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 3, 4, 2, 1, 2] all=1 dead=0 stop_count=1
+history=[2, 1, 2, 4, 2, 1, 2, 3, 4] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 2, 4, 2, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 4, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 4, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 1, 3, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 2, 3, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 1, 3, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 2, 3, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 2, 1, 4, 1, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 1, 2, 1, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[3, 2, 1, 2, 1] all=1 dead=0 stop_count=1
+history=[3, 2, 3, 1, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 1, 3, 4, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 3, 4, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 2, 1, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 3, 2, 4] all=1 dead=0 stop_count=1
+history=[2, 1, 2, 4, 2, 4, 2, 1, 4, 1, 4] all=1 dead=0 stop_count=1
+history=[3, 1, 2, 1, 2, 1, 4, 3, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 4, 3] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 2, 3, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 4, 2, 4, 3, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 2, 4, 2, 4] all=1 dead=0 stop_count=1
+history=[4, 1, 2, 1, 4, 1, 4, 3] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 3, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 4, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 3, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 1, 2, 1, 2, 3] all=1 dead=1 stop_count=0
+history=[3, 4, 2, 4, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 4, 1, 3, 1] all=1 dead=0 stop_count=1
+history=[3, 4, 2, 4, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 4, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[3, 4, 2, 1, 4, 2, 4, 2] all=1 dead=0 stop_count=1
+history=[1, 4, 2, 4, 3, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 3, 4, 1, 4, 2, 4, 2, 3, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 2, 4, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 1, 3] all=1 dead=0 stop_count=0
+history=[3, 1, 4, 1, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 3, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 2, 4, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[2, 3, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 2, 1, 2, 1, 3, 2] all=1 dead=0 stop_count=0
+history=[4, 3, 2, 4, 1, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 3, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 4, 2, 1, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 2, 4, 3, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 2, 3, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 1, 4, 2] all=1 dead=0 stop_count=1
+history=[2, 1, 2, 4, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 2, 3] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 4, 2, 1, 2] all=1 dead=0 stop_count=1
+history=[1, 4, 1, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 2, 4, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 2, 1, 4, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 2, 4, 3, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[3, 4, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 2, 1, 3] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 2, 4, 2, 1, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 4, 2, 3, 1] all=1 dead=0 stop_count=0
+history=[3, 2, 4, 1, 2, 4, 2, 4] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 2, 4, 3, 4, 1] all=1 dead=0 stop_count=1
+history=[1, 2, 4, 1, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 3, 4, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 4, 1, 2, 4, 1, 3, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 3, 2, 3, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 1, 2, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[3, 2, 4, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 3, 2] all=1 dead=0 stop_count=0
+history=[1, 3, 1, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 3, 1, 4, 2, 3] all=1 dead=1 stop_count=0
+history=[4, 3, 1, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 3, 1, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 1, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 4, 1, 2, 4, 1, 4, 3, 2, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 2, 1, 3] all=1 dead=1 stop_count=0
+history=[3, 4, 1, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 2, 1, 3, 2] all=1 dead=1 stop_count=0
+history=[3, 2, 4, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 1, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 4, 3, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 2, 1, 2, 3, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 2, 3, 4, 2, 1, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 3, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 3, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 3, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 1, 4, 2, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 1, 3, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 2, 1, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 2, 1, 4, 1] all=1 dead=0 stop_count=1
+history=[3, 2, 1, 3, 1, 4, 1, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 1, 4, 1, 2, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 2, 3, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 4, 3, 1, 2, 4, 2, 4, 1] all=1 dead=0 stop_count=1
+history=[1, 4, 2, 3, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 4, 2, 4, 3, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 4, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 2, 3, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 2, 1, 2, 4, 1] all=1 dead=0 stop_count=1
+history=[3, 4, 1, 3] all=1 dead=1 stop_count=0
+history=[2, 1, 3, 4, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 2, 1, 2, 4, 2] all=1 dead=0 stop_count=1
+history=[4, 1, 2, 1, 2, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 2, 3, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 2, 4, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 3, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 3, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 2, 1, 2, 3, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 3, 1, 3, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[3, 2, 1, 4, 2, 4, 1, 3] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 4, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 3, 2, 1, 4, 2, 4] all=1 dead=0 stop_count=1
+history=[2, 1, 4, 2, 1, 4, 3, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 2, 4, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 1, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 2, 1, 4, 3] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 1, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 2, 1, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 3, 1, 2, 4, 1, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 1, 2, 4, 2, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 4, 2, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 4, 1, 2, 3, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 3, 2, 4] all=1 dead=0 stop_count=1
+history=[2, 4, 1, 3, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 1, 4, 2, 3] all=1 dead=0 stop_count=0
+history=[4, 3, 2, 3, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 1, 4, 1, 3, 4] all=1 dead=0 stop_count=1
+history=[1, 4, 1, 2, 1, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 4, 2, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 3, 1, 3, 2] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 4, 3, 4, 2] all=1 dead=0 stop_count=1
+history=[2, 4, 1, 2, 4, 1, 2, 1, 2, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 1, 3, 4, 2, 1, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 2, 4, 2, 3, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 2, 1, 4, 1, 3, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 1, 2, 1, 2, 4, 1, 3] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 3, 1, 4, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 1, 4, 2, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 2, 3, 4] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 2, 1, 3, 1, 2, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 3, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 2, 4, 3, 1, 3] all=1 dead=0 stop_count=0
+history=[2, 4, 3, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 4, 1, 4, 1, 4] all=1 dead=0 stop_count=1
+history=[4, 2, 4, 1, 2, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 4, 1, 4, 3] all=1 dead=0 stop_count=0
+history=[2, 1, 3, 2, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 4, 1, 4, 1, 3, 4, 1, 4, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 3, 2] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 4, 1, 4, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 1, 4, 3, 4] all=1 dead=0 stop_count=0
+history=[3, 2, 1, 2, 1, 4, 2, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[1, 3, 2, 1, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 4, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 4, 2, 4, 2, 3] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 2, 4, 2, 1] all=1 dead=0 stop_count=1
+history=[3, 4, 2, 3, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 3, 2, 4, 2, 4, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 2, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 3, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 3, 2, 1, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 4, 2, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 4, 3, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 1, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 2, 1, 2, 1, 4, 2] all=1 dead=0 stop_count=1
+history=[1, 4, 1, 2, 1, 4, 2, 1, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 1, 2, 4, 2, 4, 1, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 3, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 2, 4, 2, 4, 1, 2, 4, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 4, 2, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 4, 1, 2, 3, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 3, 4, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 3, 4] all=1 dead=0 stop_count=0
+history=[3, 1, 4, 1, 2, 1, 4, 2, 3, 4, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 3, 4, 2] all=1 dead=0 stop_count=1
+history=[1, 2, 3, 4, 1, 4, 2, 4, 2, 4] all=1 dead=0 stop_count=1
+history=[1, 2, 1, 2, 4, 2, 4, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 2, 4, 1, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 2, 3, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 1, 4, 2, 3, 1] all=1 dead=1 stop_count=0
+history=[1, 3, 4, 3, 1] all=1 dead=0 stop_count=0
+history=[1, 3, 1, 4, 2, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 3, 1, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 3, 4, 1] all=1 dead=0 stop_count=0
+history=[3, 4, 1, 4, 2, 1, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 1, 4, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 3, 4, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 3, 1, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[3, 4, 1, 4, 1, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 3, 2, 1, 4, 2] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 4, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 4, 3, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 1, 4, 2, 4, 3, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 4, 1, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 3, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 3, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 3, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 4, 3, 2, 4, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[3, 4, 2, 4, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 4, 1, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[3, 4, 2, 1, 2, 1, 2, 1] all=1 dead=0 stop_count=1
+history=[2, 1, 4, 2, 4, 1, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 4, 2, 4, 2, 1, 4, 2] all=1 dead=0 stop_count=1
+history=[1, 4, 1, 4, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 2, 1, 4, 2, 1, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 1, 2, 4, 2] all=1 dead=0 stop_count=1
+history=[1, 2, 4, 2, 3, 4, 2, 1, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[3, 1, 4, 3, 2, 1, 4, 1, 4] all=1 dead=0 stop_count=0
+history=[3, 2, 3, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 4, 3, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 2, 4, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 2, 4, 2, 1] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 1, 2, 1, 4, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 1, 2, 4, 1, 3, 4, 1, 4, 2, 1, 2, 1] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 1, 4, 1, 2, 4, 2, 1, 4, 1] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 4, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 3, 1, 2, 1, 2, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 3, 4, 1, 3, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 4, 2, 1, 2, 1] all=1 dead=0 stop_count=1
+history=[2, 1, 4, 1, 3, 4, 3, 4] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 4, 1, 2, 3] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 4, 1, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 4, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 3, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 1, 4, 1, 2, 4, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 4, 1, 4, 1, 3, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 1, 4, 3, 4, 2] all=1 dead=1 stop_count=0
+history=[3, 4, 2, 1, 4, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[3, 2, 1, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 2, 1, 2, 4, 1, 2] all=1 dead=0 stop_count=1
+history=[3, 4, 2, 1, 2, 1, 2] all=1 dead=1 stop_count=0
+history=[2, 3, 1, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 2, 1, 2, 4, 1, 4, 1, 4] all=1 dead=1 stop_count=0
+history=[1, 4, 2, 4, 1, 2, 3, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 4, 1, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 4, 2, 4, 1, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 3, 1, 2, 1, 2, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 1, 2, 1, 4, 2] all=1 dead=0 stop_count=0
+history=[4, 2, 1, 4, 3, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 4, 1, 2, 1, 4, 2, 4] all=1 dead=0 stop_count=0
+history=[2, 4, 1, 3, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 2, 4, 2, 3, 1, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 1, 2, 1] all=1 dead=0 stop_count=0
+history=[4, 1, 4, 1, 4, 1, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 4, 2, 4, 1, 2, 4, 2] all=1 dead=0 stop_count=0
+history=[3, 1, 2, 1, 4, 2, 4, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[2, 4, 2, 1, 2, 1, 2, 3, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 3, 4, 2] all=1 dead=0 stop_count=0
+history=[4, 1, 2, 1, 4, 2, 3, 2] all=1 dead=0 stop_count=0
+history=[1, 2, 1, 2, 1, 4, 3, 1] all=1 dead=0 stop_count=1
+history=[1, 4, 2, 4, 2, 1, 2, 1, 4] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 2, 1, 4, 1, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 3, 1, 2] all=1 dead=0 stop_count=1
+history=[4, 2, 1, 4, 1, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 3, 1, 2, 4, 2, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 3, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[4, 2, 4, 2, 1, 3] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 1, 3, 1, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 4, 1, 2, 4, 2, 3, 4, 1] all=1 dead=0 stop_count=0
+history=[4, 3, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 1, 2, 1, 2, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 4, 1, 3, 2] all=1 dead=1 stop_count=0
+history=[2, 1, 3, 1, 2, 4] all=1 dead=1 stop_count=0
+history=[2, 1, 4, 2, 4, 2, 1, 4, 1, 2, 4, 3, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 1, 2, 1, 2, 4] all=1 dead=0 stop_count=1
+history=[4, 2, 1, 4, 1, 4, 2, 1] all=1 dead=1 stop_count=0
+history=[1, 2, 4, 1, 3, 4, 2, 3, 2] all=1 dead=0 stop_count=0
+history=[4, 1, 3, 2, 3, 1, 4, 3] all=1 dead=0 stop_count=0
+history=[1, 4, 1, 2, 4, 1, 2, 4] all=1 dead=0 stop_count=0
+history=[1, 2, 4, 1, 4, 2, 4, 2] all=1 dead=1 stop_count=0
+history=[1, 2, 1, 2, 1, 2, 1, 4] all=1 dead=0 stop_count=0
+history=[1, 4, 2, 1, 3, 2] all=1 dead=1 stop_count=0
+history=[4, 3, 2, 4, 1, 4, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 4, 2, 4, 1, 4, 1, 2, 4, 1, 2] all=1 dead=1 stop_count=0
+history=[4, 1, 4, 1, 3, 1, 4, 1, 4, 2, 4, 2, 4] all=1 dead=1 stop_count=0
+history=[4, 2, 1, 2, 4, 1, 3, 4, 1, 4, 2] all=1 dead=1 stop_count=0
+history=[3, 1, 2, 4, 3, 4, 1, 4, 1] all=1 dead=1 stop_count=0
+history=[4, 1, 3, 4, 3, 2, 1, 2, 4, 1] all=1 dead=0 stop_count=0
+history=[1, 3, 4, 1, 4, 2] all=1 dead=0 stop_count=0
+history=[2, 1, 4, 2, 4, 1, 4, 2] all=1 dead=0 stop_count=0
