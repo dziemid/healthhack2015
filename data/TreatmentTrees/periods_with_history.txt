@@ -1,4 +1,4 @@
-id;0;period;[]
+id;treatment;period;history
 1;1;1;[]
 1;2;2;[1]
 2;2;1;[]
