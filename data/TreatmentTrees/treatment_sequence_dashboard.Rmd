@@ -1,23 +1,40 @@
-  rm(list=ls()) 
-  gc()
-  
-  require(plyr)
-  require(rCharts)
-  require(rjson)
-  require(RCurl)
-  
-  path_len_lim <- Inf #set to Inf to consider all paths
-  min_age <- 0
-  max_age <- Inf
-  sex_filter <- c(1) #set filter on which sex you want to consider c(0,1) for all
-  path_size_cutoff <- 100 #set minimum number of observations 
-  path_match <- c('[]') # [] for all paths (everyone starts here)
-  
-  get_data <- getURL("https://raw.githubusercontent.com/dziemid/healthhack2015/master/data/TreatmentTrees/TreatmentTree_MockData_periods_correct.txt")
+---
+title: "Treatment Flow Charts"
+author: "Habib Adam"
+date: "25 October 2015"
+output: html_document
+runtime: shiny
+---
+
+```{r}
+rm(list=ls()) 
+gc()
+
+require(plyr)
+require(rCharts)
+require(rjson)
+require(RCurl)
+```
+
+
+```{r, echo=FALSE}
+selectInput("path_len_lim","Set path length limit:",c(seq(1,20,1),Inf))
+selectInput("path_size_cutoff","Set min. number of patients in each path:",seq(0,100,10))
+# selectInput("path_match","Specify path(s) to filter:",seq(4,18,1))
+textInput("path_match", "Specify path(s) to filter:", value = "[]", width = NULL)
+# selectInput("min_age","Patient min. age:",seq(0,100,5))
+numericInput("min_age","Patient min. age:", value = 0, min = 0, max = NA, step = NA, width = NULL)
+# selectInput("max_age","Patient max. age:",c(seq(0,100,5),Inf))
+numericInput("max_age","Patient max. age:", value = Inf, min = 0, max = NA, step = NA, width = NULL)
+selectInput("sex_filter","Patient gender:",c(0,1,2))
+
+renderTable({
+  if (input$sex_filter == 2){input$sex_filter <- c(0,1)}
+  get_data <- getURL("https://raw.githubusercontent.com/dziemid/healthhack2015/master/data/TreatmentTrees/TreatmentTree_MockData_20151024.txt")
   data <- read.table(text = get_data,sep=',',header=TRUE)
   # data <- read.table("/Users/amydonaldson/Documents/Habib/dev/health_hack/TreatmentTrees/TreatmentTree_MockData_RealTreat.txt",sep=',',header=TRUE)
   # str(data)
-  data <- data[data$age>=min_age&data$age<=max_age&data$sex%in%sex_filter,]
+  data <- data[data$age>=input$min_age&data$age<=input$max_age&data$sex%in%input$sex_filter,]
   
   get_data <- getURL("https://raw.githubusercontent.com/dziemid/healthhack2015/master/data/TreatmentTrees/periods_with_history.txt")
   history_data <- read.table(text = get_data,sep=';',header=TRUE)
@@ -138,4 +155,8 @@
     ") 
   
   sankeyPlot3
-  
+})
+```
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
