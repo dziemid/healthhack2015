@@ -54,8 +54,11 @@ CREATE (a)-[:FOLLOWED_BY]->(b)
 Quering
 
 ```
-MATCH p =(a:Treatment { period: 1 })-[:FOLLOWED_BY*]-(b:Treatment )
-WHERE b.dead = true
-RETURN extract(n IN nodes(p)| n.treatment) as `trajectory`, length(p),a.sex,b.dead,count(*) as counted
-ORDER BY counted DESC
+MATCH (a:Treatment)
+WITH DISTINCT a.person AS pp
+MATCH (b:Treatment{person: pp}) 
+WITH pp, MAX(b.period) AS last_period
+MATCH p =(start:Treatment { period: 1, person: pp })-[:FOLLOWED_BY*]-(last:Treatment {  period: last_period, person: pp} )
+RETURN extract(n IN nodes(p)| n.treatment) as `trajectory`, length(p),start.sex,last.dead,count(*) as total
+ORDER BY total DESC 
 ```
