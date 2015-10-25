@@ -9,6 +9,8 @@ Generating histories from records:
 cd data/TreatmentTrees/ && ./bin/generate_history TreatmentTree_MockData_20151024.txt > result.txt
 ```
 
+![R visualization](tree.png "visualization")
+
 ## Spike with Neo4J
 
 Getting Neo4j
