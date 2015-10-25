@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/generate_history'
+
+path = ARGV[0] || "TreatmentTree_MockData_20151024.txt"
+
+GenerateHistory.new.run(path)
