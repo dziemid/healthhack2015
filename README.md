@@ -9,6 +9,8 @@ Generating histories from records:
 cd data/TreatmentTrees/ && ./bin/generate_history TreatmentTree_MockData_20151024.txt > result.txt
 ```
 
+https://github.com/dziemid/healthhack2015/blob/master/data/TreatmentTrees/alluvial_plot_code.R
+
 ![R visualization](tree.png "visualization")
 
 ## Spike with Neo4J
