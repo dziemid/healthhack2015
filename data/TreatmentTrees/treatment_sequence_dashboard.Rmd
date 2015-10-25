@@ -1,6 +1,6 @@
 ---
 title: "Treatment Flow Charts"
-author: "Habib Adam"
+author: "TreatmentTreesTeam"
 date: "25 October 2015"
 output: html_document
 runtime: shiny
@@ -17,21 +17,29 @@ require(RCurl)
 
 
 ```{r, echo=FALSE}
-selectInput("path_len_lim","Set path length limit:",c(seq(1,20,1),Inf), selected = 4)
-selectInput("path_size_cutoff","Set min. number of patients in each path:",seq(0,1000,10), selected = 100)
+# selectInput("path_len_lim","Set path length limit:",c(seq(1,20,1),Inf), selected = 4)
+sliderInput("path_len_lim", "Set path length limit:", 
+                min=0, max=20, value=10)
+# selectInput("path_size_cutoff","Set min. number of patients in each path:",seq(0,1000,10), selected = 100)
+sliderInput("path_size_cutoff", "Set min. number of patients in each path:", 
+                min=0, max=1000, value=100)
 # selectInput("path_match","Specify path(s) to filter:",seq(4,18,1))
-textInput("path_match", "Specify path(s) to filter:", value = '[1, 2]', width = NULL)
+textInput("path_match", "Specify path to filter:", value = '[1, 2]', width = NULL)
 # selectInput("min_age","Patient min. age:",seq(0,100,5))
-numericInput("min_age","Patient min. age:", value = 60, min = 0, max = NA, step = NA, width = NULL)
+# numericInput("min_age","Patient min. age:", value = 60, min = 0, max = NA, step = NA, width = NULL)
+sliderInput("min_age", "Patient min. age:", 
+                min=0, max=150, value=0)
 # selectInput("max_age","Patient max. age:",c(seq(0,100,5),Inf))
-numericInput("max_age","Patient max. age:", value = 80, min = 0, max = NA, step = NA, width = NULL)
+# numericInput("max_age","Patient max. age:", value = 80, min = 0, max = NA, step = NA, width = NULL)
+sliderInput("max_age", "Patient max. age:", 
+                min=0, max=150, value=150)
 selectInput("sex_filter","Patient gender:",c(0,1,2), selected = 1)
 ```
 
 ```{r, echo=FALSE}
 
 get_data <- getURL("https://raw.githubusercontent.com/dziemid/healthhack2015/master/data/TreatmentTrees/TreatmentTree_MockData_20151024.txt")
-data <- read.table(text = get_data,sep=',',header=TRUE)
+patient_data <- read.table(text = get_data,sep=',',header=TRUE)
 # data <- read.table("/Users/amydonaldson/Documents/Habib/dev/health_hack/TreatmentTrees/TreatmentTree_MockData_RealTreat.txt",sep=',',header=TRUE)
 # str(data)
 
@@ -39,90 +47,93 @@ get_data <- getURL("https://raw.githubusercontent.com/dziemid/healthhack2015/mas
 history_data <- read.table(text = get_data,sep=';',header=TRUE)
 # history_data <- read.table("/Users/amydonaldson/Documents/Habib/dev/health_hack/healthhack2015/data/TreatmentTrees/periods_with_history.txt",sep=';',header=TRUE)
 
+plot_data <- NULL
+
 names(history_data)[names(history_data)=="X.."] <- "history"
 reactive({
   if (input$sex_filter == 2){input$sex_filter <- c(0,1)}
-  data <- data[data$age>=input$min_age&data$age<=input$max_age&data$sex%in%input$sex_filter,]
+  data <- patient_data[patient_data$age>=input$min_age&patient_data$age<=input$max_age&patient_data$sex%in%input$sex_filter,]
   id_list <- unique(history_data[history_data$history%in%input$path_match,"id"])
   history_data <- history_data[history_data$id%in%id_list,]
+  data <- merge(data,history_data[,c("period","id","history")],by=c("period","id"))
+  
+  # n_treats <- length(unique(data$treatment))
+  # treatment_lookup <- data.frame(treatment=seq(1,n_treats),treatment_class=LETTERS[seq(from = 1, to = n_treats)])
+  # data <- merge(data,treatment_lookup,by="treatment")
+  # data$treatment <- data$treatment_class
+  
+  # count_data <- count(data,c("period","history"))
+  # ggplot(count_data,aes(period,freq,fill=factor(history))) +
+  #   geom_bar(stat="identity")
+  
+  
+  
+  data_prev <- data
+  data_prev$period <- data_prev$period + 1
+  
+  data_merge <- merge(data,data_prev[,c("id","period","history")],by=c("id","period"),all.x=TRUE)
+  
+  #create transitions for absorbing states
+  #dead states
+  data_deadstates <- data_merge[data_merge$dead==1,]
+  data_deadstates$period <- data_deadstates$period + 1
+  names(data_deadstates)[names(data_deadstates)=="history.x"] <- "source"
+  data_deadstates$target <- paste0(data_deadstates$source,",dead")
+  data_deadstates <- data_deadstates
+  data_deadstates <- count(data_deadstates,c("source","target"))
+  names(data_deadstates)[names(data_deadstates)=="freq"] <- "value"
+  
+  #dead states
+  data_stopstates <- data_merge[data_merge$stop_treatment==1,]
+  data_stopstates$period <- data_stopstates$period + 1
+  names(data_stopstates)[names(data_stopstates)=="history.x"] <- "source"
+  data_stopstates$target <- paste0(data_stopstates$source,",stop")
+  data_stopstates <- data_stopstates
+  data_stopstates <- count(data_stopstates,c("source","target"))
+  names(data_stopstates)[names(data_stopstates)=="freq"] <- "value"
+  
+  
+  names(data_merge)[names(data_merge)=="history.y"] <- "source"
+  names(data_merge)[names(data_merge)=="history.x"] <- "target"
+  
+  
+  data_merge <- data_merge[data_merge$period <= input$path_len_lim + 1,]
+  
+  
+  plot_data <- count(data_merge[!is.na(data_merge$source),],c("period","source","target"))
+  names(plot_data)[names(plot_data)=="freq"] <- "value"
+  
+  
+  # plot_data$source <- as.character(paste0(plot_data$source,plot_data$period))
+  # plot_data$target <- as.character(paste0(plot_data$target,plot_data$period+1))
+  plot_data <- plot_data[,c("source","target","value")]
+  
+  # plot_data$value <- plot_data$value/max(plot_data$value)
+  
+  # str(plot_data)
+  
+  #verify that no source = target
+  #or will get stuck in infinite loop
+  plot_data[which(plot_data[,1]==plot_data[,2]),]
+  
+  #implement path volume cutoff
+  
+  plot_data <- plot_data[plot_data$value>=input$path_size_cutoff,]
+  considered_paths <- unique(plot_data$source)
+  data_deadstates <- data_deadstates[data_deadstates$source%in%input$considered_paths,]
+  data_stopstates <- data_stopstates[data_stopstates$source%in%input$considered_paths,]
+  
+  plot_data <- rbind(plot_data,data_deadstates,data_stopstates)
+  # plot_data[order(plot_data$source),]
+  
+  plot_data$colval <- 100
 })
-data <- merge(data,history_data[,c("period","id","history")],by=c("period","id"))
+
 ```
 
 
 
 ```{r, echo=FALSE}  
-# n_treats <- length(unique(data$treatment))
-# treatment_lookup <- data.frame(treatment=seq(1,n_treats),treatment_class=LETTERS[seq(from = 1, to = n_treats)])
-# data <- merge(data,treatment_lookup,by="treatment")
-# data$treatment <- data$treatment_class
-
-# count_data <- count(data,c("period","history"))
-# ggplot(count_data,aes(period,freq,fill=factor(history))) +
-#   geom_bar(stat="identity")
-
-
-data_prev <- data
-data_prev$period <- data_prev$period + 1
-
-data_merge <- merge(data,data_prev[,c("id","period","history")],by=c("id","period"),all.x=TRUE)
-
-
-#create transitions for absorbing states
-#dead states
-data_deadstates <- data_merge[data_merge$dead==1,]
-data_deadstates$period <- data_deadstates$period + 1
-names(data_deadstates)[names(data_deadstates)=="history.x"] <- "source"
-data_deadstates$target <- paste0(data_deadstates$source,",dead")
-data_deadstates <- data_deadstates
-data_deadstates <- count(data_deadstates,c("source","target"))
-names(data_deadstates)[names(data_deadstates)=="freq"] <- "value"
-
-#dead states
-data_stopstates <- data_merge[data_merge$stop_treatment==1,]
-data_stopstates$period <- data_stopstates$period + 1
-names(data_stopstates)[names(data_stopstates)=="history.x"] <- "source"
-data_stopstates$target <- paste0(data_stopstates$source,",stop")
-data_stopstates <- data_stopstates
-data_stopstates <- count(data_stopstates,c("source","target"))
-names(data_stopstates)[names(data_stopstates)=="freq"] <- "value"
-
-
-names(data_merge)[names(data_merge)=="history.y"] <- "source"
-names(data_merge)[names(data_merge)=="history.x"] <- "target"
-  
-reactive({  
-  data_merge <- data_merge[data_merge$period <= input$path_len_lim + 1,]
-})
-
-plot_data <- count(data_merge[!is.na(data_merge$source),],c("period","source","target"))
-names(plot_data)[names(plot_data)=="freq"] <- "value"
-
-
-# plot_data$source <- as.character(paste0(plot_data$source,plot_data$period))
-# plot_data$target <- as.character(paste0(plot_data$target,plot_data$period+1))
-plot_data <- plot_data[,c("source","target","value")]
-
-# plot_data$value <- plot_data$value/max(plot_data$value)
-
-# str(plot_data)
-
-#verify that no source = target
-#or will get stuck in infinite loop
-plot_data[which(plot_data[,1]==plot_data[,2]),]
-  
-  #implement path volume cutoff
-reactive({
-  plot_data <- plot_data[plot_data$value>=input$path_size_cutoff,]
-  considered_paths <- unique(plot_data$source)
-  data_deadstates <- data_deadstates[data_deadstates$source%in%input$considered_paths,]
-  data_stopstates <- data_stopstates[data_stopstates$source%in%input$considered_paths,]
-}) 
-
-plot_data <- rbind(plot_data,data_deadstates,data_stopstates)
-# plot_data[order(plot_data$source),]
-plot_data$colval <- 100
-
 renderPlot({   
   sankeyPlot3 <- rCharts$new()
   sankeyPlot3$setLib('http://timelyportfolio.github.io/rCharts_d3_sankey/')
